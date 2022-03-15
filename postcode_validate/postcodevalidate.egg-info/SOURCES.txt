@@ -1,0 +1,8 @@
+README.md
+setup.py
+postcodevalidate/__init__.py
+postcodevalidate/func.py
+postcodevalidate.egg-info/PKG-INFO
+postcodevalidate.egg-info/SOURCES.txt
+postcodevalidate.egg-info/dependency_links.txt
+postcodevalidate.egg-info/top_level.txt

@@ -1,0 +1,30 @@
+{
+    "jupyter.kernels.filter": [
+        {
+            "path": "~\\Anaconda3\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Users\\chandr\\scurri_challenges\\postcode_validate\\postcode_venv\\Scripts\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "C:\\Python\\python.exe",
+            "type": "pythonEnvironment"
+        },
+        {
+            "path": "c:\\Users\\chandr\\scurri_challenges\\postcode_validate\\venv\\Scripts\\python.exe",
+            "type": "pythonEnvironment"
+        }
+    ],
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./tests",
+        "-p",
+        "test_*.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true,
+    "python.linting.enabled": true
+}
