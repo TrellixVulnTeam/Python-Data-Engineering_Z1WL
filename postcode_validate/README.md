@@ -16,6 +16,11 @@ INVALID POSTCODE- if entered postcode is in-valid
 
 ## venv_postcode
 This is virtual environment created for this library which stores all required modules/libraries 
+$ pip install virtualenv
+$ python3 -m venv env
+$ source env/Scripts/activate
+$ deactivate
+
 
 ### STEPS TO PERFORM ###
 via library
